@@ -1,0 +1,12 @@
+INDEX VERSION 1.131+D:\Proiecte Javra\.metadata\.plugins\org.eclipse.jdt.core
+3450356794.index
+2212871108.index
+2564945565.index
+369992078.index
+1659669022.index
+306197743.index
+4272191795.index
+330940803.index
+2744892496.index
+541299826.index
+2810365562.index

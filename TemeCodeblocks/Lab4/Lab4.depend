@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1605017060 source:d:\temecodeblocks\lab4\main.cpp
+	"BinomialHeap.h"
+	<iostream>
+	<vector>
+
+1605016905 d:\temecodeblocks\lab4\binomialheap.h
+	<string>
+

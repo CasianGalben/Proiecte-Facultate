@@ -1,0 +1,31 @@
+import java.io.IOException;
+import java.time.Instant;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Date;
+import java.util.List;
+public class Main {
+
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Produs produs1=new Produs("Masina de spalat","Samus","Samsung", null, null);
+		Produs produs2=new Produs("Aparat Foto","Emag","Nokia", null, null);
+		Produs produs3=new Produs("Iphone 12","Apple","Apple", null, null);
+		Depozit depozit1=new Depozit("Depozitul 1",2,new ArrayList<>(Arrays.asList()));
+		Depozit depozit2=new Depozit("Depozitul 2",1,new ArrayList<>(Arrays.asList()));
+        Inteprindere inteprindere=new Inteprindere("Curierul",new ArrayList<>(Arrays.asList(depozit1,depozit2)));
+		 
+        /*CSVFileHandler h = new CSVFileHandler();
+        List<List<String>> content = h.getContinut();
+        content.stream().forEach(l -> l.stream().forEach(System.out::println));
+        
+        try {
+            CSVFileHandler.createStudentsFromFile("continut.csv");
+        }
+        catch (Exception e) {
+
+           }*/
+	} 
+
+}

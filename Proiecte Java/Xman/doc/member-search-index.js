@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ac","c":"XMan","l":"afisare()"},{"p":"ac","c":"XMan","l":"nume"},{"p":"ac","c":"XMan","l":"punctaj"},{"p":"ac","c":"XMan","l":"varsta"},{"p":"ac","c":"XMan","l":"XMan()","u":"%3Cinit%3E()"},{"p":"ac","c":"XMan","l":"XMan(int)","u":"%3Cinit%3E(int)"},{"p":"ac","c":"XMan","l":"XMan(int, double)","u":"%3Cinit%3E(int,double)"}];updateSearchResults();

@@ -1,0 +1,66 @@
+Current Date: Apr 5, 2021
+ 
+Pick up Date: Apr 5, 2021
+Return Date: Apr 10, 2021 = Days: 5
+Full Name: Type First Name Herer Type Last Narme Here
+Age: 19
+Location: Type rComplete Address Here
+Contact: Type Contact Number Herer
+Car: Jeep-2014
+Total Rent Price: 1250.00 
+--------------------------------------------------
+Current Date: Jan 1, 2020
+ 
+Pick up Date: Jan 1, 2020
+Return Date: Jan 1, 2020 = Days: 0
+Full Name: Type First Nadme Here dme Here
+Age: 57
+Location: Type Complete Adddress Here
+Contact: Type Contact 5 Number Here
+Car: Toyota-2014
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2020
+ 
+Pick up Date: Jan 1, 2020
+Return Date: Jan 1, 2020 = Days: 0
+Full Name: Type First Name Hered Type Last Name Hered
+Age: 57
+Location: Type Complete Address Hered
+Contact: Type Contact Number Hd
+Car: Toyota-2014
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2020
+ 
+Pick up Date: Jan 1, 2020
+Return Date: Jan 1, 2020 = Days: 0
+Full Name: Type First Name Hered Type Last Name Hered
+Age: 57
+Location: Type Complete Address Hered
+Contact: Type Contact Number Hered
+Car: Toyota-2014
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2020
+ 
+Pick up Date: Feb 3, 2021
+Return Date: Feb 6, 2021 = Days: 3
+Full Name: Casian Galben
+Age: 57
+Location: f
+Contact: f
+Car: Jeep-2014
+Total Rent Price: 750.00 
+--------------------------------------------------
+Current Date: Jan 1, 2020
+ 
+Pick up Date: Jan 1, 2020
+Return Date: Jan 1, 2020 = Days: 0
+Full Name: Type First Name Heref Type Last Name Heref
+Age: 57
+Location: Type Complete Address Heref
+Contact: Type Contact Number Heref
+Car: Mercedes-Benz-2015
+Total Rent Price: 0.00 
+--------------------------------------------------
